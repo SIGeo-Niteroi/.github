@@ -1,8 +1,22 @@
-<p>🌐O SIGeo é responsável pelo gerenciamento de todas as informações geográficas do município de Niterói e fornece suporte e auxílio técnico à administração pública para a implementação de soluções baseadas em inteligência geográfica, com o objetivo de subsidiar políticas públicas e propor melhorias nos fluxos de trabalho.</p>
+<h1>Perfil oficial da Prefeitura de Niterói</h1>
+<h4>Bem-vindo ao repositório oficial da Prefeitura de Niterói! 🚀</h4>
 
-<p>Acesse o nosso Hub onde concentramos as informações geográficas públicas da Prefeitura. Essas informações podem ser visualizadas sob a forma de aplicações web, painéis de resultados e monitoramento, mapas estáticos, metadados dos dados públicos e ortofotos para consulta. Além disso, documentos e informações públicas também estão disponíveis para download, categorizados por tema e/ou secretaria responsável pela informação.</p>
+<div>
+  <h2>🔎 O que você encontra aqui?</h2>
+  <p>🔸 Repositórios com códigos abertos usados em nossos projetos</p>
+  <p>🔸 Scripts para análises estatísticas e geoespaciais</p>
+  <p>🔸 Ferramentas para visualização e transparência dos dados públicos</p>
+  <p>🔸 APIs e integrações com bases de dados municipais</p>
+</div>
 
-<p>Para saber mais sobre visite nosso site: https://www.sigeo.niteroi.rj.gov.br/ </p>
+<div>
+  <h2>🔗 Links úteis:</h2>
+  <p>🏛 Site da Prefeitura: <a href="https://niteroi.rj.gov.br/" alt="site da prefeitura de Niterói" target="_blank">niteroi.rj.gov.br</a></p>
+  <p>🌍 Hub do SIGeo: <a href="https://www.sigeo.niteroi.rj.gov.br/" alt="Hub do SIGeo" target="_blank">sigeo.niteroi.rj.gov.br</a></p>
+  <p>📊 Hub do Escritório de Dados: EM BREVE</p>
+  <p>🔎 Portal da Transparência: <a href="https://transparencia.niteroi.rj.gov.br/#/" alt="Portal da Transparência de Niterói" target="_blank">transparencia.niteroi.rj.gov.br</a></p>
+  <p>👁 Observa Nit: <a href="https://observa.niteroi.rj.gov.br/" alt="Portal da Transparência de Niterói" target="_blank">observa.niteroi.rj.gov.br</a></p>
+</div>
 
 
 
