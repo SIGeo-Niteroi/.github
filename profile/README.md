@@ -1,5 +1,5 @@
-<h1>Prefeitura Municipal de Niterói Escritório de Dados</h1>
-<h4>Bem-vindo ao repositório oficial da Prefeitura de Niterói! 🚀</h4>
+<h1>Escritório de Dados da Prefeitura Municipal de Niterói</h1>
+<h4>Bem-vindo ao nosso repositório! 🚀</h4>
 
 <div>
   <h2>🔎 O que você encontra aqui?</h2>
