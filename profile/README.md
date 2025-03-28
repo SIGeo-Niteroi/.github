@@ -15,7 +15,8 @@
   <p>🌍 Hub do SIGeo: <a href="https://www.sigeo.niteroi.rj.gov.br/" alt="Hub do SIGeo" target="_blank">sigeo.niteroi.rj.gov.br</a></p>
   <p>📊 Hub do Escritório de Dados: EM BREVE</p>
   <p>🔎 Portal da Transparência: <a href="https://transparencia.niteroi.rj.gov.br/#/" alt="Portal da Transparência de Niterói" target="_blank">transparencia.niteroi.rj.gov.br</a></p>
-  <p>👁 Observa Nit: <a href="https://observa.niteroi.rj.gov.br/" alt="Portal da Transparência de Niterói" target="_blank">observa.niteroi.rj.gov.br</a></p>
+  <p>👁 Observa Nit: <a href="https://observa.niteroi.rj.gov.br/" alt="Site Observa Nit" target="_blank">observa.niteroi.rj.gov.br</a></p>
+  <p>💼 Portal de Serviços da Prefeitura: <a href="https://servicos.niteroi.rj.gov.br/#/main/dyview" alt="Portal de Serviços da Prefeitura de Niterói" target="_blank">servicos.niteroi.rj.gov.br</a></p>
 </div>
 
 
